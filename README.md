@@ -1,5 +1,5 @@
 # SABELOMAWELA-SABMAW527_BLC2401_GROUP--D_SABELO-MAWELA_JSL05
-Guardians of the Galaxy Playlist Generator
+## Guardians of the Galaxy Playlist Generator
 This JavaScript code generates playlists for the Guardians of the Galaxy based on their preferred music genres.
 
 Functionality

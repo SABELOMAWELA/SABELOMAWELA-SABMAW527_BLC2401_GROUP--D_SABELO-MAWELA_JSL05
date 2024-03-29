@@ -12,6 +12,6 @@ generatePlaylist function:
 Takes the guardians preferences and song data as arguments.
 Iterates over each titile.
 Filters songs based on the your preferred genre.
-Creates a playlist containing only song titles for you 
+Creates a playlist containing only song titles for you. 
 Stores playlists in an object keyed by title.
 Returns the playlists object.

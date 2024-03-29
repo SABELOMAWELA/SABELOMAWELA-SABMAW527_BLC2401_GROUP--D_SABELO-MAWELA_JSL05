@@ -6,6 +6,7 @@ This JavaScript code generates playlists based on your preferred music genres.
 Data:
 
 An array of songs objects containing title, artist, and genre information
+
 generatePlaylist function:
 
 Takes the guardians preferences and song data as arguments.
